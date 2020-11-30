@@ -1,0 +1,225 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+.logo h1 {
+  font-size: 20px !important;
+  margin: 14px 30px !important;
+}
+.mainmanu ul li a {
+  font-size: 11px !important;
+  margin: 0 -12px !important;
+}
+.header-bottom h2 {
+  font-size: 17px !important;
+}
+.header-bottom h2 {
+  font-size: 17px !important;
+}
+.service-top h2 {
+  font-size: 19px !important;
+}
+.service-top h2 {
+  font-size: 19px !important;
+}
+.skill-area-top p {
+  font-size: 11px !important;
+}
+.skill-area-top h2 {
+  font-size: 19px !important;
+}
+.skill1 {
+}
+.portfolio-top h2 {
+  font-size: 19px !important;
+  margin-bottom: 6px !important;
+}
+.portfolio-top p {
+  font-size: 10px !important;
+}
+.button-area {
+  margin: 0px -52px !important;
+}
+.photo1 h6 {
+  font-size: 10px;
+}
+.photo1 img {
+  height: 100px;
+  width: 140px;
+}
+.bottons-area {
+  font-size: 10px !important;
+}
+.about-top h2 {
+  font-size: 19px !important;
+}
+.aboutf1 p {
+  font-size: 10px !important;
+}
+.aboutf1 h3 {
+  font-size: 13px !important;
+}
+.aboutf1 span {
+  font-size: 9px !important;
+}
+.contact-top h2 {
+  font-size: 19px !important;
+}
+.contact-top p {
+  font-size: 10px !important;
+}
+.footer ul li a {
+  font-size: 9px !important;
+  margin: 0px -9px !important;
+}
+input {
+  width: 100%;
+  padding: 10px 5px;
+  margin: 12px 0px;
+}
+textarea {
+  padding: 10px 8px;
+  margin: 10px 0px;
+  width: 100%;
+}
+input[type="submit"] {
+  padding: 10px 0px;
+  margin: 15px 0px;
+  font-size: 14px;
+}	
+}
+
+ /* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+.header-top h1 {
+  font-size: 25px;
+  margin-top: 12px
+}
+.mainmanu ul li a {
+  font-size: 13px;
+  margin: 0px -13px;
+}
+
+.header-bottom h2 {
+  font-size: 20px !important;
+}
+	
+.header-bottom a {
+  margin: -10px !important;
+}
+
+.service-top h2 {
+  font-size: 22px !important;
+}
+.service-top p {
+  font-size: 12px !important;
+}
+.service2 img {
+  height: 90px !important;
+  width: 90px !important;
+}
+.service2 h3 {
+  font-size: 14px !important;
+}
+.service2 p {
+  font-size: 11px !important;
+}
+
+.service1 h3 {
+  font-size: 13px !important;
+}
+.service1 h5 {
+  font-size: 12px !important;
+}
+.service1 p {
+  font-size: 10px !important;
+}
+.service1 i {
+  font-size: 13px !important;
+}
+.service1 img {
+  height: 95px !important;
+  width: 95px !important;
+}
+.skill-area-top h2 {
+  font-size: 22px !important;
+}
+.skill-area-top p {
+  font-size: 10px;
+}
+.skill1 img {
+  height: 90px !important;
+  width: 90px !important;
+}
+.skill1 h3 {
+  font-size: 15px !important;
+}
+.portfolio-top h2 {
+  font-size: 22px !important;
+}
+.portfolio-top p {
+  font-size: 11px !important;
+}
+.about-top h2 {
+  font-size: 22px !important;
+}
+.about-top p {
+  font-size:  11px !important;
+}
+.aboutf1 p {
+  font-size: 11px;
+}
+.aboutf1 img {
+  height: 90px !important;
+  width: 90px !important;
+}
+.aboutf1 h3 {
+  font-size: 16px;
+}
+.aboutf1 span {
+  font-size: 11px !important;
+}
+.contact-top h2 {
+  font-size: 22px !important;
+}
+.contact-top p {
+  font-size: 11px !important;
+}
+.footer ul li a {
+  margin: 0px -6px;
+  font-size: 12px;
+}
+}
+
+ /* Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {.header-bottom h2 { width: 100%;}
+                              .service-top p {width: 70%; font-size: 13px;}
+                              .service2 img { height: 100px; width: 100px;}
+                              .service2 h3 { font-size: 20px;font-weight: 700; margin-top: 25px;}
+                              .service2 p {width: 98%; font-size: 13px;}
+                              .service1 h3 {font-size: 18px;font-weight: bold;}
+                              .service1 h5 { font-size: 16px;}
+                              .service1 p {font-size: 10px;}
+                              .service-top h2 { font-size: 30px;font-weight: 700;}
+                              .service1 img {height: 140px; width: 140px;}
+                              .skill-area-top h2 {font-size: 30px; font-weight: 700;}
+                              .skill-area-top p {font-size: 12px;}
+                              .skill1 img {height: 130px; width: 130px;}
+                              .skill1 h3 {font-size: 22px;}
+                              .portfolio-top h2 { font-size: 30px; font-weight: 700;}
+                              .portfolio-top p { font-size: 12px;}
+                              .button-area ul li { font-size: 13px; margin-right: 34px;}
+                              .about-top h2 { font-size: 30px; font-weight: 700;}
+                              .aboutf1 img { height: 110px; width: 110;}
+                              .aboutf1 p { font-size: 13px;}
+                              .aboutf1 img { margin-left: 27px;}
+                              .aboutf1 h3 { font-size: 19px; font-weight: bold;}
+                              .aboutf1 span { font-size: 14px;}
+                              .contact-top h2 {font-size: 30px;font-weight: 700;}
+                              .contact-top p { font-size: 12px;}
+                              .footer ul li { margin: 0px -13px; font-size: 15px;}
+                              .header-bottom h2 { font-size: 30px; font-weight: 700;}
+							  }
+
+ /* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {}
+

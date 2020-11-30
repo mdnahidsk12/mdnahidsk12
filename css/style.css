@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+body{
+font-family: 'Titillium Web', sans-serif;
+}
+.header-area {
+  background: #87509C;
+  color: white;
+  overflow: hidden;
+}
+.mainmanu ul {
+  list-style: none;
+}
+.mainmanu ul li {
+  display: inline-block;
+  padding: 20px 25px;
+}
+.mainmanu ul li a {
+  color: white;
+  display: inline-block;
+}
+.logo {
+  padding: 5px 0px;
+}
+.logo h1 {
+  color: white;
+  font-weight: 700;
+  font-size: 48px;
+}
+.header-bottom h2 {
+  width: 80%;
+  font-size: 42.16px;
+  color: white;
+  margin: 0 auto;
+  margin-bottom: 40px;
+}
+.header-bottom {
+  padding: 145px 0;
+}
+.service-area {
+  background: #17C2A4;
+  color: white;
+  padding: 120px 0;
+}
+h2{
+	
+	font-size: 42.16px;
+}
+.service-top p {
+  width: 50%;
+  margin: 0 auto;
+}
+.service1 img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+.team-area {
+  background: #E4EFF8;
+  padding: 85px 0;
+}
+.service1 h5 {
+  color: #17C6C0;
+}
+.skill-area {
+  padding: 85px 0;
+}.afterborder h2 {
+  position: relative;
+}
+.afterborder h2:after {
+  content: "";
+  position: absolute;
+  background: red;
+  height: 5px;
+  width: 70px;
+  left: 50%;
+  bottom: 0;
+  margin-left: -35px;
+}
+.skill-area-top p {
+  width: 41%;
+  margin: 0 auto;
+}
+.portfolio-area {
+  background: #FFDB94;
+  padding: 85px;
+}
+.portfolio-top p {
+  width: 45%;
+  margin: 0 auto;
+  margin-bottom: 25px;
+}
+.bottons-area button {
+  background: #6AC239;
+  color: white;
+  padding: 15px 60px;
+  border: none;
+  font-weight: 700;
+  border-radius: 5px;
+}
+.bottons-area {
+  margin-top: 40px;
+}
+.service1 p {
+  width: 95%;
+  margin: 0 auto;
+}
+.photo img {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+.photo img {
+  margin-left: 45px;
+  margin-bottom: 28px;
+}
+.aboutus-area {
+  background: #E35780;
+  padding: 85px 0;
+  color: white;
+}
+.content span {
+  color: #FCD193;
+}
+.content p {
+  width: 96%;
+  margin: 0 auto;
+  font-style: italic;
+}
+.contact-area {
+  background: #3A559C;
+  padding: 100px;
+  color: white;
+}
+textarea {
+  width: 90%;
+  padding: 20px 0;
+  background: #243A73;
+  border: none;
+  color: white;
+}
+input {
+  padding: 15px 30px;
+  margin: 30px 30px;
+  background: #243A73;
+  color: white;
+  border: none;
+}
+input[type="submit"] {
+  padding: 15px 60px;
+  background: #23AFEA;
+  color: white;
+  margin-top: 50px;
+}
+.footer-area {
+  background: #304C91;
+}
+.footer-area ul {
+  list-style: none;
+}
+.footer-area ul li {
+  display: inline-block;
+  padding: 25px 30px;
+}
+.footer-area ul li a {
+  color: white;
+}
